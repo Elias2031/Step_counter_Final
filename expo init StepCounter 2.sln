@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "expo init StepCounter 2", "expo init StepCounter 2.njsproj", "{E8847FB9-86BF-4820-BDA5-99662787DFC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8847FB9-86BF-4820-BDA5-99662787DFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8847FB9-86BF-4820-BDA5-99662787DFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8847FB9-86BF-4820-BDA5-99662787DFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8847FB9-86BF-4820-BDA5-99662787DFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289E1A03-1BA2-4C19-95C9-9C213E7D9BB9}
+	EndGlobalSection
+EndGlobal
